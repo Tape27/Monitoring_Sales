@@ -1,0 +1,5 @@
+C:\Users\profi\source\repos\FunPay_Monitoring_Bot\FunPay_Monitoring_Bot\bin\Release\net6.0\publish\FunPay_Monitoring_Bot.exe
+C:\Users\profi\source\repos\FunPay_Monitoring_Bot\FunPay_Monitoring_Bot\bin\Release\net6.0\publish\FunPay_Monitoring_Bot.dll
+C:\Users\profi\source\repos\FunPay_Monitoring_Bot\FunPay_Monitoring_Bot\bin\Release\net6.0\publish\FunPay_Monitoring_Bot.deps.json
+C:\Users\profi\source\repos\FunPay_Monitoring_Bot\FunPay_Monitoring_Bot\bin\Release\net6.0\publish\FunPay_Monitoring_Bot.runtimeconfig.json
+C:\Users\profi\source\repos\FunPay_Monitoring_Bot\FunPay_Monitoring_Bot\bin\Release\net6.0\publish\FunPay_Monitoring_Bot.pdb
