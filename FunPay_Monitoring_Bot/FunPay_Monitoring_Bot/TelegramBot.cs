@@ -33,7 +33,6 @@ namespace FunPay_Monitoring_Bot
                 cancellationToken
             );
 
-            Console.ReadLine();
         }
 
         public static async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
